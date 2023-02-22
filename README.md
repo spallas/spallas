@@ -1,6 +1,6 @@
 ### Hi there
 
-- I’m currently working on optimization algorithms for distributed energy resources for [EnelX Noth America](enelx.com/n-a/en/who-we-are)
+- I’m currently working on optimization algorithms for distributed energy resources for [EnelX Noth America](enelx.com/n-a/en)
 - Reach me on [Twitter](https://twitter.com/spdtips) 
 
 
