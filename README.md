@@ -2,7 +2,7 @@
 
 - I’m currently working as an SRE for [Italy's Central Bank](https://www.bancaditalia.it/homepage/index.html?com.dotmarketing.htmlpage.language=1)
 - Previously worked on MLOps, time series forecasting and optimization algorithms for [EnelX Noth America](https://www.enelx.com/n-a/en)
-- How to reach me: [Twitter](https://twitter.com/davidespx) 
+- How to reach me: Follow or DM on [X](https://twitter.com/davidespx) 
 
 
 <!--
